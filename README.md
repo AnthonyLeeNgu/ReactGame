@@ -13,12 +13,3 @@ Clicky Game is built with React components and is deployed on GitHub Pages.
 * [Bootstrap](https://getbootstrap.com/) - Makes it pretty
 * [GitHub Pages](https://pages.github.com/) - Deployment
 * [NPM](https://www.npmjs.com/) - Small packages of reuseable code that pack a big punch (yarn)
-
-
-## Author
-
-* **Kris Acker Bierma** - [KrisBierma](https://github.com/KrisBierma)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
