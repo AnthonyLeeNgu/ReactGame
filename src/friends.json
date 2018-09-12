@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Snoopy",
+    "count": 0,
+    "image": "https://vignette.wikia.nocookie.net/spongebob/images/a/a4/Spongebob_SquarePants.jpg/revision/latest?cb=20121212130049"
+  },
+  {
+    "id": 2,
+    "name": "Linus",
+    "count": 0,
+    "image": "https://static.comicvine.com/uploads/original/11132/111325030/5880105-spongebob+squarepants+squidward+tentacles.jpg"
+  },
+  {
+    "id": 3,
+    "name": "PigPen",
+    "count": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/en/7/7e/Patrick_Star.png"
+  },
+  {
+    "id": 4,
+    "name": "Sally",
+    "count": 0,
+    "image": "https://vignette.wikia.nocookie.net/spongefan/images/3/31/Mr._Krabs.jpg/revision/latest?cb=20140121035524"
+  },
+  {
+    "id": 5,
+    "name": "Woodstock",
+    "count": 0,
+    "image": "https://vignette.wikia.nocookie.net/villains/images/0/04/Plankton.jpg/revision/latest?cb=20160116221316"
+  },
+  {
+    "id": 6,
+    "name": "Marcie",
+    "count": 0,
+    "image": "https://vignette.wikia.nocookie.net/thehungergames/images/e/e6/Gary-snail-spongebob.jpg/revision/latest?cb=20120831221400"
+  },
+  {
+    "id": 7,
+    "name": "Schroeder",
+    "count": 0,
+    "image": "https://vignette.wikia.nocookie.net/spongefan/images/0/0b/King_Jellyfish.jpg/revision/latest?cb=20140830051159"
+  },
+  {
+    "id": 8,
+    "name": "Charlie Brown",
+    "count": 0,
+    "image": "https://vignette.wikia.nocookie.net/spongebob/images/2/2f/Sandy.jpg/revision/latest?cb=20180304191121"
+  },
+  {
+    "id": 9,
+    "name": "Peppermint Patty",
+    "count": 0,
+    "image": "https://vignette.wikia.nocookie.net/spongebob/images/4/4a/026a_-_Grandma%27s_Kisses_042.jpg/revision/latest?cb=20150223055001"
+  },
+  {
+    "id": 10,
+    "name": "Franklin",
+    "count": 0,
+    "image": "https://vignette.wikia.nocookie.net/veggietales-the-ultimate-veggiepedia/images/8/8f/Larry_lobster_transparent.jpg/revision/latest?cb=20180127181112"
+  },
+  {
+    "id": 11,
+    "name": "Rerun",
+    "count": 0,
+    "image": "https://vignette.wikia.nocookie.net/spongebob/images/f/f5/Images_mrs.puff_12.jpg/revision/latest?cb=20120117151616"
+  },
+  {
+    "id": 12,
+    "name": "Lucy",
+    "count": 0,
+    "image": "https://vignette.wikia.nocookie.net/parody/images/1/10/Flying_dutchman_spongebob.jpg/revision/latest?cb=20150625211632"
+  }
+]
